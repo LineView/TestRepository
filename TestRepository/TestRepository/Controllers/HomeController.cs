@@ -15,7 +15,7 @@ namespace TestRepository.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "LineView Solutions";
 
             return View();
         }
